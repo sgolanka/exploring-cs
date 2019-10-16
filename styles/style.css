@@ -1,6 +1,11 @@
 html {
   text-align: center;
 }
+body {
+  <body bgcolor="960D0D">
+  color: white;
+  font-family: Didot;
+}
 
 h1 {
 font-size: 100px;
